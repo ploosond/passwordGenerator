@@ -34,7 +34,7 @@ The application uses React's state management to generate secure passwords based
 
 ```bash
 git clone https://github.com/ploosond/passwordGenerator
-cd password-generator
+cd passwordGenerator
 npm install
 npm start
 ```
